@@ -14,5 +14,11 @@ note -> Kindly download the notebook and run again to understand the flow of dec
     B) Linear Regression. </br>
     C) Multiple Regression. </br>
   Dataset Used -> co2.csv </br>
+  
+  4. Implementation of Logistic Regression: (Logistic_Regression.ipynb) </br>
+    –Binary Logistic Regression. </br>
+    –Multinomial Logistic Regression. </br>
+    –Ordinal Logistic Regression. </br>
+     Dataset(s) Used -> titanic.csv , co2.csv </br>
 
 
