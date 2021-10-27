@@ -22,9 +22,15 @@ note -> Kindly download the notebook and run again to understand the flow of dec
     D) Dataset(s) Used -> titanic.csv , co2.csv </br>
      
   5. Implementation of Polynomial Regression: (Polynomial_regression.ipynb) </br>
-    A) Model Compared with Linear Regression.
-    B) Model is varied with degree and conclusion is drawn.
-    Dataset User -> Position_Salaries.csv
+    A) Model Compared with Linear Regression. </br>
+    B) Model is varied with degree and conclusion is drawn. </br>
+    Dataset Used -> Position_Salaries.csv </br>
+    
+  6. Implementation Of KNN: (KNN.ipynb) </br>
+    A) Dataset split into 80% train data and 20% test data. </br>
+    B) Model is varied with different values of k(1,3 ,5,7,9) and distance metric and conclusion is drawn. </br>
+    Dataset Used Health.csv
+    
      
 
 
