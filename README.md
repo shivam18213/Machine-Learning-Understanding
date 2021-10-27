@@ -16,9 +16,15 @@ note -> Kindly download the notebook and run again to understand the flow of dec
   Dataset Used -> co2.csv </br>
   
   4. Implementation of Logistic Regression: (Logistic_Regression.ipynb) </br>
-    –Binary Logistic Regression. </br>
-    –Multinomial Logistic Regression. </br>
-    –Ordinal Logistic Regression. </br>
-     Dataset(s) Used -> titanic.csv , co2.csv </br>
+    A) Binary Logistic Regression. </br>
+    B) Multinomial Logistic Regression. </br>
+    C) Ordinal Logistic Regression. </br>
+    D) Dataset(s) Used -> titanic.csv , co2.csv </br>
+     
+  5. Implementation of Polynomial Regression: (Polynomial_regression.ipynb) </br>
+    A) Model Compared with Linear Regression.
+    B) Model is varied with degree and conclusion is drawn.
+    Dataset User -> Position_Salaries.csv
+     
 
 
